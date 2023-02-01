@@ -1,4 +1,6 @@
-
+body{
+    background: coral;
+}
 *{
     margin: 0;
     padding: 0;
